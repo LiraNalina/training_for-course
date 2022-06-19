@@ -1,0 +1,70 @@
+.app {
+    margin-left: 50px;
+}
+
+.on {
+    background-color: green;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+
+.off {
+    background-color: white;
+    margin-left: 5px;
+}
+
+.unOffOn {
+    background-color: white;
+}
+
+.indicatorOn {
+    border-radius: 10px;
+    text-align: center;
+    width: 35px;
+    margin-top: 10px;
+    background-color: rgb(20, 147, 104);
+}
+
+.indicatorOff {
+    border-radius: 40px;
+    text-align: center;
+    width: 35px;
+    margin-top: 10px;
+    margin-left: 45px;
+    background-color: white;
+    border: 1px solid green;
+}
+
+.second {
+    margin-top: 40px;
+}
+
+.add {
+    margin-left: 10px;
+}
+
+.counter {
+    margin-top: 40px;
+}
+
+.count1 {
+margin-bottom: 10px;
+}
+
+.count2 {
+    margin-left: 25px;
+}
+
+.players {
+    display: inline-flex;
+}
+
+.player1 {
+    width: 70px;
+    background-color: rgb(197, 177, 216);
+}
+
+.player2 {
+    background-color: aquamarine;
+    margin-left: 10px;
+}
